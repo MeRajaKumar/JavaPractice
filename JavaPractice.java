@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PracticePrg{
+public class JavaPractice{
 public static void main(String args[]){
 
     //       👉 String Class Questions 👈

@@ -1,7 +1,7 @@
 import java.util.*;
 class ApnaCollegePractice{
      public static void main(String[] args){
-          Scanner sc = new Scanner(system.in);
+          Scanner sc = new Scanner(System.in);
 
 
 
