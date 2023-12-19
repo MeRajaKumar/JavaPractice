@@ -13,15 +13,21 @@ class SwitchCaseEg1{
                case "A":
                     result = a+b;
                     System.out.println("Your sum of "+a+" and "+b+" = "+result);
+                    break;
                case "B":
                     result = a-b;
                     System.out.println("Your sum of "+a+" and "+b+" = "+result);
+                    break;
                case "C":
                     result = a*b;
                     System.out.println("Your sum of "+a+" and "+b+" = "+result);
+                    break;
                case "D":
                     result = a/b;
                     System.out.println("Your sum of "+a+" and "+b+" = "+result);
+                    break;
+               default:
+               System.out.println("please enter valid character");
           }
      }
 }
