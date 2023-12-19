@@ -8,6 +8,29 @@ class ApnaCollegePractice{
 
           // Java Lacture 5 : -
           // Que number 1 : pettern programs
+          // int i=1;
+          // while(i<4){
+          //       for(int j=0; j<6;j++){
+          //           System.err.print("*");
+          //       }
+          //      System.err.println();               
+          //      i++;
+          // }
+
+          // Que number 2 :
+          int i=1;
+          while(i<3){
+               for(int j=0; j<3;j++){
+                    System.out.print("*");
+                    for(int k=1;k<3;k++){
+                    System.out.print("*");
+
+                    }
+                    
+                    }
+               System.out.println();               
+               i++;
+          }
 
 
 
