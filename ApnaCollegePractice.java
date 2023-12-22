@@ -4,6 +4,19 @@ class ApnaCollegePractice{
           Scanner sc = new Scanner(System.in);
 
 
+          // Java Lacture 6 : -
+          // Que number 1 : pettern programs
+
+          
+          // Que number 2 : pettern programs
+          // Que number 3 : pettern programs
+          // Que number 4 : pettern programs
+          // Que number 5 : pettern programs
+          // Home Work : pettern programs number 1
+
+
+
+
 
 
           // Java Lacture 5 : -
@@ -18,19 +31,74 @@ class ApnaCollegePractice{
           // }
 
           // Que number 2 :
-          int i=1;
-          while(i<3){
-               for(int j=0; j<3;j++){
-                    System.out.print("*");
-                    for(int k=1;k<3;k++){
-                    System.out.print("*");
+          // int n = 5;
+          // int m = 4;
+          // for(int i=0; i<n; i++) {
+          //      for(int j=0; j<m; j++) {
+          //           if(i == 0 || i == n-1 || j == 0 || j == m-1) {
+          //           System.out.print("*");
+          //           } else {
+          //           System.out.print(" ");
+          //           }
+          //      }
+          //      System.out.println();
+          // }
 
-                    }
+          // Que number 3 : in copy
+          // Que number 4 : in copy
+          // Que number 5 : in copy
+
+          // Que number 6 : 
+          // int n = 5;
+          // for(int i=1; i<=n; i++) {
+          //      for(int j=1; j<=i; j++) {
+          //           System.out.print(j);
+          //      }
+          //      System.out.println();
+          // }
                     
-                    }
-               System.out.println();               
-               i++;
-          }
+          // Que number 7 : 
+          // int n = 5;
+          // for(int i=n; i>=1; i--) {
+          //      for(int j=1; j<=i; j++) {
+          //           System.out.print(j);
+          //      }
+          //      System.out.println();
+          // }
+          
+          // Que number 8 : 
+          // int n = 5;
+          // int number = 1;
+          // for(int i=1; i<=n; i++) {
+          //      for(int j=1; j<=i; j++) {
+          //           System.out.print(number+" ");
+          //           number++;
+          //      }
+          //      System.out.println();
+          // }          
+
+          // Que number 9 : 
+          // int n = 5;
+          // for(int i=1; i<=n; i++) {
+          //      for(int j=1; j<=i; j++) {
+          //           if((i+j) % 2 == 0) {
+          //                System.out.print(1+" ");
+          //           } else {
+          //                System.out.print(0+" ");
+          //           }
+          //      }
+          //      System.out.println();
+          // }          
+
+          // Home work Probelm : Number 1
+          
+          // Home work Probelm : Number 2
+
+          // Home work Probelm : Number 3
+          
+
+
+          
 
 
 
