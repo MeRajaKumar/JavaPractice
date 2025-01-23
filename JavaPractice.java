@@ -4,15 +4,15 @@ public static void main(String args[]){
 
     //       👉 String Class Questions 👈
     // 1️⃣ WAP to display use of string class??⬇️👍
-    // Scanner sc = new Scanner(System.in);
-    //     String input3 = new String();
-    //     System.out.print("Enter a string :- ");
-    //     input3 = sc.nextLine();                             //method 1
-    // String input1 = new String("Aayush Gupta");    //method 2
-    // String input2 = "Hellow world! This is Aayush Gupta";   //method 3
-    // System.out.println("value of object1 : \t" + input1);
-    // System.out.println("value of object2 : \t" + input2);
-    // System.out.println("value of object3 : \t" + input3);
+    Scanner sc = new Scanner(System.in);
+        String input3 = new String();
+        System.out.print("Enter a string :- ");
+        input3 = sc.nextLine();                             //method 1
+    String input1 = new String("Aayush Gupta");    //method 2
+    String input2 = "Hellow world! This is Aayush Gupta";   //method 3
+    System.out.println("value of object1 : \t" + input1);
+    System.out.println("value of object2 : \t" + input2);
+    System.out.println("value of object3 : \t" + input3);
 
 
 
