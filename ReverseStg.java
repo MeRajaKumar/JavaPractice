@@ -8,6 +8,6 @@ class ReverseStg {
     }
 
     public static void main(String args[]) {
-        revStg("ram is here"); 
+        revStg("zomsmart is hiring!"); 
     }
 }

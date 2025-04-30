@@ -8,7 +8,7 @@ class GFG {
     }
 
     public static void main(String args[]) {
-        revStg("Zopsmart is hiring!");
+        revStg("zomsmart is hiring!");
 
     // String Param1="Zop kumar";
     // String rev="";
