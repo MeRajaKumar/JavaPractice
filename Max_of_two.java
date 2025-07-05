@@ -1,7 +1,7 @@
 // Find Maximum of Two Numbers
 
 import java.util.Scanner;
-public class MaxofTwo {
+public class Max_of_two {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
