@@ -1,6 +1,6 @@
 // Swap Two Numbers Without Using Third Variable
 import java.util.Scanner;
-public class SwapNumbers {
+public class SwapTwoNumWithout3rdVariable {
     public static void main(String[] args) {
         int a = 5, b = 10;
 

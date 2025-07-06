@@ -1,4 +1,4 @@
-public class VoidEG {
+public class VoidExamplePrg {
     // Void method to add two numbers and print the result
     public static int addNumbers(int a, int b) {
         int sum = a + b; 

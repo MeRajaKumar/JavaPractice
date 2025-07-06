@@ -15,10 +15,6 @@ class ApnaCollegePractice{
           // Home Work : pettern programs number 1
 
 
-
-
-
-
           // Java Lacture 5 : -
           // Que number 1 : pettern programs
           // int i=1;

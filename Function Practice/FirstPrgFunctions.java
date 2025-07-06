@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class FirstPrg{
+public class FirstPrgFunctions {
+	// This is the main method where the program starts execution
 	public static void main(String arg[])
 	{
 		add(20,40);
@@ -11,12 +12,13 @@ public class FirstPrg{
 		Pettern(num);
 
 		System.out.print("Enter the number: ");  
-		int num1=sc.nextInt();  
-		//method calling  
+		int num1=sc.nextInt();    
 		findEvenOdd(num1); 
-		//reading value from user  
+		 
 	}
-		public static  void findEvenOdd(int num1){
+
+	//method to find even or odd
+		public static void findEvenOdd(int num1){
 		//method body  
 		if(num1%2==0)   
 		System.out.println(num1+" is even");   

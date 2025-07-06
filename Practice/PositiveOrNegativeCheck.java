@@ -1,6 +1,6 @@
 // Check if a Number is Positive or Negative
 import java.util.Scanner;
-public class Posorneg {
+public class PositiveOrNegativeCheck {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number for check positive or negative: ");

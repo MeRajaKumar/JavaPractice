@@ -1,6 +1,6 @@
 // Check if a Number is Prime eg: 1,2,3,5,7
 import java.util.Scanner;
-public class Maxofthree {
+public class PrimeNumberCheck {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
