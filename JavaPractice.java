@@ -250,7 +250,7 @@ public static void main(String args[]){
 
     //Que>> 1️⃣4️⃣ WAJP to accept any number and ask for what you want?? ⬇️👍
     // Scanner ob = new Scanner(System.in);
-    //     System.out.print("Please enter 1st number :- ");
+    // System.out.print("Please enter 1st number :- ");
 	// int num1=ob.nextInt();
 	// System.out.print("Please enter 2nd number :- ");
 	// int num2=ob.nextInt();
